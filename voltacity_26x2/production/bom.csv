@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D3, D4, D5, D6, D7, D8, D9",0805,26,Diode,
+"DS1, DS2",Switch_MSK12C02,2,SW_DIP_x01,
+GPIO1,DIP-28_W7.62mm,1,MCP23017_SP,
+"J1, J2",JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,2,2-Pin JST,
+J4,Molex-78127-1128-Manufacturer_Recommended,1,78127-1128,
+MCU1,Nice_Nano_V2,1,Nice!Nano,
+R1,0805,1,R_0805,
+"S1_2, S10_2, S11_2, S12_2, S13_2, S14_2, S15_2, S16_2, S17_2, S18_2, S19_2, S2_2, S20_2, S21_2, S22_2, S23_2, S24_2, S25_2, S26_2, S3_2, S4_2, S5_2, S6_2, S7_2, S8_2, S9_2",REVERSED_Kailh_socket_PG1350_reversible,26,Keyswitch,
+SW1,Button_MJTP1243,1,Switch,
