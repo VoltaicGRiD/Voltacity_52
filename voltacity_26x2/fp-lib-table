@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/Dustin/source/repos/keyboards/Voltacity_52/Library.pretty")(options "")(descr ""))
+)

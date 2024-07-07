@@ -7255,7 +7255,7 @@
 	)
 	(global_label "GPIO_INTB"
 		(shape input)
-		(at 107.95 163.83 180)
+		(at 107.95 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7265,7 +7265,7 @@
 		)
 		(uuid "0e7cccbc-d46f-4441-b894-b2486d4edcc0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.349 163.83 0)
+			(at 95.349 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7585,7 +7585,7 @@
 	)
 	(global_label "GPIO_INTB"
 		(shape input)
-		(at 203.2 127 180)
+		(at 203.2 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7595,7 +7595,7 @@
 		)
 		(uuid "5627943e-1804-4693-b9c9-067b49ac5a42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.599 127 0)
+			(at 190.599 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7651,7 +7651,7 @@
 	)
 	(global_label "GPIO_INTA"
 		(shape input)
-		(at 107.95 166.37 180)
+		(at 107.95 163.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7661,7 +7661,7 @@
 		)
 		(uuid "61f97535-b102-4cdf-90aa-d7c2206bab6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.5304 166.37 0)
+			(at 95.5304 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7827,7 +7827,7 @@
 	)
 	(global_label "TP_BTN1"
 		(shape input)
-		(at 262.89 137.16 0)
+		(at 262.89 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7837,7 +7837,7 @@
 		)
 		(uuid "6c23838d-f6a1-41d9-8687-26e0b9b6ded0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.858 137.16 0)
+			(at 273.858 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8421,7 +8421,7 @@
 	)
 	(global_label "TP_BTN3"
 		(shape input)
-		(at 262.89 142.24 0)
+		(at 262.89 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8431,7 +8431,7 @@
 		)
 		(uuid "bbbb11a6-b9f4-4691-b816-545605d6a37e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.858 142.24 0)
+			(at 273.858 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8619,7 +8619,7 @@
 	)
 	(global_label "GPIO_INTA"
 		(shape input)
-		(at 203.2 124.46 180)
+		(at 203.2 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8629,7 +8629,7 @@
 		)
 		(uuid "d715dae7-babd-4832-a208-e2df83eaf699")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.7804 124.46 0)
+			(at 190.7804 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8841,7 +8841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 27.94 102.87 0)
 			(effects
 				(font
@@ -9195,7 +9195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 66.04 102.87 0)
 			(effects
 				(font
@@ -9327,7 +9327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 91.44 58.42 0)
 			(effects
 				(font
@@ -9703,7 +9703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 40.64 36.83 0)
 			(effects
 				(font
@@ -10068,6 +10068,70 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
+		(at 134.62 101.6 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ff64e04-f8a4-414a-99d5-6d7704e2d223")
+		(property "Reference" "H14"
+			(at 137.16 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 137.16 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
+			(at 134.62 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 134.62 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "voltacity_26x2"
+				(path "/8fc869c9-34c7-429a-b58b-99451ce647da"
+					(reference "H14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
 		(at 157.48 62.23 0)
 		(unit 1)
 		(exclude_from_sim yes)
@@ -10244,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 66.04 36.83 0)
 			(effects
 				(font
@@ -10312,7 +10376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 104.14 80.01 0)
 			(effects
 				(font
@@ -10534,7 +10598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 104.14 102.87 0)
 			(effects
 				(font
@@ -10885,7 +10949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 91.44 102.87 0)
 			(effects
 				(font
@@ -11280,7 +11344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 53.34 102.87 0)
 			(effects
 				(font
@@ -12316,7 +12380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 78.74 58.42 0)
 			(effects
 				(font
@@ -12384,7 +12448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 40.64 58.42 0)
 			(effects
 				(font
@@ -12452,7 +12516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 27.94 80.01 0)
 			(effects
 				(font
@@ -12489,6 +12553,70 @@
 			(project "simple_split"
 				(path "/8fc869c9-34c7-429a-b58b-99451ce647da"
 					(reference "S13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 134.62 106.68 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7756c78d-f8fc-42a7-b627-a4527491787b")
+		(property "Reference" "H15"
+			(at 137.16 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 137.16 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
+			(at 134.62 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 134.62 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "voltacity_26x2"
+				(path "/8fc869c9-34c7-429a-b58b-99451ce647da"
+					(reference "H15")
 					(unit 1)
 				)
 			)
@@ -12677,7 +12805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 27.94 58.42 0)
 			(effects
 				(font
@@ -12745,7 +12873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 53.34 58.42 0)
 			(effects
 				(font
@@ -12900,7 +13028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 91.44 36.83 0)
 			(effects
 				(font
@@ -13144,7 +13272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 91.44 80.01 0)
 			(effects
 				(font
@@ -13376,7 +13504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 78.74 80.01 0)
 			(effects
 				(font
@@ -13444,7 +13572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 40.64 102.87 0)
 			(effects
 				(font
@@ -14341,7 +14469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 27.94 36.83 0)
 			(effects
 				(font
@@ -15042,7 +15170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 53.34 80.01 0)
 			(effects
 				(font
@@ -15110,7 +15238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 53.34 36.83 0)
 			(effects
 				(font
@@ -15178,7 +15306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 78.74 36.83 0)
 			(effects
 				(font
@@ -15314,7 +15442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 78.74 102.87 0)
 			(effects
 				(font
@@ -15351,6 +15479,70 @@
 			(project "simple_split"
 				(path "/8fc869c9-34c7-429a-b58b-99451ce647da"
 					(reference "S23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 134.62 96.52 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3534bd7-182d-4ab9-9015-89fd8e068f63")
+		(property "Reference" "H13"
+			(at 137.16 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 137.16 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
+			(at 134.62 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 134.62 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "voltacity_26x2"
+				(path "/8fc869c9-34c7-429a-b58b-99451ce647da"
+					(reference "H13")
 					(unit 1)
 				)
 			)
@@ -15516,7 +15708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 40.64 80.01 0)
 			(effects
 				(font
@@ -15925,7 +16117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 66.04 58.42 0)
 			(effects
 				(font
@@ -15993,7 +16185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh Sockets:REVERSED_Kailh_socket_PG1350_reversible"
+		(property "Footprint" "marbastlib-choc:SW_choc_v1_HS_CPG135001S30_1u"
 			(at 66.04 80.01 0)
 			(effects
 				(font
