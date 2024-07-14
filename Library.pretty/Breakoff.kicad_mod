@@ -1,0 +1,80 @@
+(footprint "Breakoff"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.000003 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "077c5742-4589-4e71-8e24-78bfcb47ad5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Breakoff"
+		(at 0.000003 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2b9f71d-d59a-4219-9865-7969784dc88f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:Breakoff"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3911e523-3337-457f-a1e1-d2f3cfa7b593")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0bbb701f-1c6d-4a26-8508-45bad46d8fdd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2f47e45-2be5-4326-9d09-f1de35e94f4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "" np_thru_hole roundrect
+		(at 0 0)
+		(size 10 0.5)
+		(drill oval 10 0.5)
+		(layers "F&B.Cu" "*.Mask")
+		(roundrect_rratio 0.5)
+		(uuid "b7a67d65-6a55-421e-bd1d-4521190ae90c")
+	)
+)
